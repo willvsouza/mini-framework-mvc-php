@@ -1,0 +1,14 @@
+{
+    "name": "william/mini-framework-mvc-php",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "William"
+        }
+    ],
+    "require": {}
+}
